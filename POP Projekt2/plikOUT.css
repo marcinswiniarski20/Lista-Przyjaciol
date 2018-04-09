@@ -1,0 +1,75 @@
+body
+{
+	background-color: #303030;
+	color: gold;
+	font-size: 16px;	
+}
+#container
+{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#logo
+{
+	background-color: black;
+	text-align: center;
+	margin: 7.5px;
+	padding:0.2px;
+}
+#menu
+{
+	float: left;
+	background-color: dimgray;
+	width: 105px;
+	text-align: center;
+	min-height: 465px;
+	padding:7.5px;
+	margin: 7.5px;
+}
+#content
+{
+	float: left;
+	padding: 15px;
+	width: 480px;
+	text-align:justify;
+}
+#footer
+{
+	clear: both;
+	background-color: black;
+	text-align: center;
+	margin:10px;
+	font-size: 12.75px;
+	font-style: italic;
+}
+table 
+{
+	border-collapse:collapse;
+	text-align:center;
+ border-color:black;
+ border: 3px solid black;
+}
+th
+{
+	border: 3px solid black;
+	padding: 2px 15px 2px 15px;
+}
+td
+{
+	border: 2px solid black;
+	padding: 2px 15px 2px 15px;
+}
+a.tilelink
+{
+	text-decoration:none;
+	color: gold;
+}
+th.urodziny
+{
+	background-color: red;
+}
+th.imieniny
+{
+	background-color: blue;
+}

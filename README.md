@@ -1,10 +1,10 @@
 # Lista Przyjaciol
-Drugi projekt uczelniany pisany semestrze I strukturalnie w jêzyku C++. Program wymaga obs³ugi
-z konsoli cmd w postaci konkretnego wiersza poleceñ.
+Drugi projekt uczelniany pisany w semestrze I strukturalnie w jÄ™zyku C++. Program wymaga obsÅ‚ugi
+z konsoli cmd w postaci konkretnego wiersza poleceÅ„.
 Na podstawie danego pliu tekstowego "odczyt.txt" program wydobywa wszystkie potrzebne informacje
-i tworzy "Listê najlepszych przyjació³" posortowan¹ i wyedytowan¹ w postaci strony html i opisuj¹cym jej wygl¹d
-plikiem CSS. Do ka¿dego przyjaciela do³¹czane jest zdjêcie, którego œcie¿ka znajduje siê w pliku "odczyt.txt".
-Program wyposa¿ony jest równie¿ w nawigacjê po liœcie, która umo¿liwia szybkie poruszanie siê po konkretnych imionach
-w sposób alfabetyczny. Zastosowane sortowanie b¹belkowe. Dodatkowo u¿ytykownik zostaje poinformowany, gdy ktoœ z znajomych
-bêdzie mia³ urodziny/imieniny w przeci¹gu najbli¿szych tygodni. 
-Sposób realizacji projektu narzucony z góry przez uczelniê. 
+i tworzy "ListÄ™ najlepszych przyjaciÃ³Å‚" posortowanÄ… i wyedytowanÄ… w postaci strony html i opisujÄ…cym jej wyglÄ…d
+plikiem CSS. Do kaÅ¼dego przyjaciela doÅ‚Ä…czane jest zdjÄ™cie, ktÃ³rego Å›cieÅ¼ka znajduje siÄ™ w pliku "odczyt.txt".
+Program wyposaÅ¼ony jest rÃ³wnieÅ¼ w nawigacjÄ™ po liÅ›cie, ktÃ³ra umoÅ¼liwia szybkie poruszanie siÄ™ po konkretnych imionach
+w sposÃ³b alfabetyczny. Zastosowane sortowanie bÄ…belkowe. Dodatkowo uÅ¼ytykownik zostaje poinformowany, gdy ktoÅ› z znajomych
+bÄ™dzie miaÅ‚ urodziny/imieniny w przeciÄ…gu najbliÅ¼szych tygodni. 
+SposÃ³b realizacji projektu narzucony z gÃ³ry przez uczelniÄ™. 
